@@ -17,13 +17,14 @@
 .cloth-card{
     border: none;
     border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
 }
 .cloth-img{
     height: 320px;
     overflow: hidden;
     background-color: #e8e8e8;
     padding: 10px 0px;
-    margin: 2%;
+    margin: 3%;
     border-radius: 10px;
 }
 .cloth-img img{
@@ -42,4 +43,7 @@
 
 .service-row{
     height: 100px;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 10px 10px 40px gray;
 }
