@@ -1,0 +1,45 @@
+.logo{
+    width: 200px;
+    height: 30px;
+}
+
+.title-img{
+    width: 100%;
+}
+
+.big-heading{
+    padding-top: 100px;
+}
+
+.buy-btn{
+    padding: 2%;
+}
+.cloth-card{
+    border: none;
+    border-radius: 10px;
+}
+.cloth-img{
+    height: 320px;
+    overflow: hidden;
+    background-color: #e8e8e8;
+    padding: 10px 0px;
+    margin: 2%;
+    border-radius: 10px;
+}
+.cloth-img img{
+    width: 250px;
+    height: 300px;
+}
+
+.e-com img{
+    width: 100%;
+}
+
+.service-icon img{
+    width: 75px;
+    height: 75px;
+}
+
+.service-row{
+    height: 100px;
+}
