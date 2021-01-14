@@ -11,9 +11,12 @@
     padding-top: 100px;
 }
 
+/* Button  */
 .buy-btn{
     padding: 2%;
 }
+
+/* Card  */
 .cloth-card{
     border: none;
     border-radius: 10px;
@@ -32,6 +35,7 @@
     height: 300px;
 }
 
+/* Service Section  */
 .e-com img{
     width: 100%;
 }
