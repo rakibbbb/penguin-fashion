@@ -4,6 +4,17 @@ body{
 h1, h2, h3, h4, h5, h6{
     font-family: 'Francois One', sans-serif;
 }
+
+/* Navbar */
+.navigation-link ul li{
+    padding-left: 30px;
+}
+
+.nav-link-size{
+    font-size: 15px;
+    font-weight: bold;
+}
+
 .logo{
     width: 200px;
     height: 30px;
@@ -21,6 +32,7 @@ h1, h2, h3, h4, h5, h6{
 .buy-btn{
     padding: 10px 15px;
 }
+
 
 /* Card  */
 .cloth-card{
@@ -57,3 +69,4 @@ h1, h2, h3, h4, h5, h6{
     padding: 5px;
     box-shadow: 10px 10px 40px gray;
 }
+
